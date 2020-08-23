@@ -41,3 +41,13 @@
 Here, I'll explain how to install, set up and use Spice.Net effectively.
 
 ### Installation
+
+To Install this, you can use the `git` command. If you don't have this command, you can install it with:
+```sh
+sudo apt install git
+```
+With the `git` command, you can install **Spice.Net** with:
+```sh
+git clone https://github.com/spicesouls/spice.net
+```
+![Demonstration Of Installation](imgs/demo1.png)
