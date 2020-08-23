@@ -1,19 +1,23 @@
 <p align="center">
   <a href="https://github.com/spicesouls/spice.net">
-    <h1 align="center">Spice.Net</h1>
-  </a>
-  
-  <a href="https://github.com/spicesouls/spice.net">
     <img src="spice.net.png" alt="Logo" width="600" height="159">
   </a>
+
+  <h1 align="center">Spice.Net</h1>
 
   <p align="center">
     An opensource backdoor tool for connecting to machines and executing commands!
     <br />
-    <a href="https://github.com/spicesouls/spice.net/"><strong>/Explore the docs/</strong></a>
+    <a href="https://github.com/spicesouls/spice.net"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/spicesouls/spice.net/issues"><strong>/Report Bug/</strong></a>
-    <a href="https://github.com/spicesouls/spice.net/issues"><strong>/Request Feature/</strong></a>
+    <br />
+    <a href="https://github.com/spicesouls/spice.net">View Demo</a>
+    ·
+    <a href="https://github.com/spicesouls/spice.net/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/spicesouls/spice.net/issues">Request Feature</a>
   </p>
 </p>
+</p>
+
 
