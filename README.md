@@ -11,7 +11,7 @@
     <a href="https://github.com/spicesouls/spice.net"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/spicesouls/spice.net">View Demo</a>
+    <a href="https://github.com/spicesouls/spice.net#guide">Installation & Usage Guide</a>
     ·
     <a href="https://github.com/spicesouls/spice.net/issues">Report Bug</a>
     ·
@@ -32,4 +32,12 @@
 * [Examples](#examples) 
 * [Contact](#contact)
 
-### About
+## About
+
+**Spice.Net** is a tool made for assistance with compromising and enumerating machines, as well as monitoring them and acting as a simple method to access said machine remotely. It uses `python sockets` to communicate between the compromised machine running Spice.Net and any other machine connecting using spice.net.
+
+## Guide
+
+Here, I'll explain how to install, set up and use Spice.Net effectively.
+
+### Installation
