@@ -58,3 +58,4 @@ Setting up **Spice.Net** is as easy as the installation was, and can be done in 
 ```sh
 cd spice.net; chmod +x setup.sh; ./setup.sh
 ```
+![Demonstration Of Setting Up](imgs/demo2.PNG)
