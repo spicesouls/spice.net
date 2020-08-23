@@ -51,3 +51,10 @@ With the `git` command, you can install **Spice.Net** with:
 git clone https://github.com/spicesouls/spice.net
 ```
 ![Demonstration Of Installation](imgs/demo1.PNG)
+
+### Setting Up
+
+Setting up **Spice.Net** is as easy as the installation was, and can be done in as little as one line! Here it is:
+```sh
+cd spice.net; chmod +x setup.sh; ./setup.sh
+```
