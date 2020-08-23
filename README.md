@@ -67,4 +67,5 @@ Now we have **Spice.Net** set up and ready, we can now plant a backdoor on our t
 ./victim.sh
 ```
 ![Demonstration Of Running victim.sh](imgs/demo3.PNG)
+
 ![Demonstration Of Running victim.sh](imgs/demo3.5.PNG)
