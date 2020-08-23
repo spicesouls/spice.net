@@ -37,27 +37,27 @@ while True:
 
                     command = str(data, 'utf-8')
                     if command == "help":
-                        response = """\u001b[45m
+                        response = """\u001b[38;5;200m
 ..................List Of Commands..................\u001b[0m
 help - Displays this message
 info - Displays machine information
 echo [message] - Display a message in the server terminal
 $[command] - Run a command on the machine
-disconnect - Disconnect from the Server\u001b[45m
+disconnect - Disconnect from the Server\u001b[38;5;200m
 ....................................................\u001b[0m
 """
                         send_string(response)
 
                     elif command == "info":
                         
-                        response = f"""\u001b[45m
+                        response = f"""\u001b[38;5;200m
 .......Server System Info.......\u001b[0m
 System\t\t:\t{uname.system}
 Node Name\t:\t{uname.node}
 Release\t\t:\t{uname.release}
 Version\t\t:\t{uname.version}
 Machine\t\t:\t{uname.machine}
-Processor\t:\t{uname.processor}\u001b[45m
+Processor\t:\t{uname.processor}\u001b[38;5;200m
 ................................\u001b[0m
 """
                         send_string(response)
