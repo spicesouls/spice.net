@@ -5,5 +5,6 @@ then
     :
 else
     sudo apt install python3
+fi    
     
 python3 src/server.py
