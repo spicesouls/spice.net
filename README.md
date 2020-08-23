@@ -50,4 +50,4 @@ With the `git` command, you can install **Spice.Net** with:
 ```sh
 git clone https://github.com/spicesouls/spice.net
 ```
-![Demonstration Of Installation](imgs/demo1.png)
+![Demonstration Of Installation](imgs/demo1.PNG)
