@@ -59,3 +59,12 @@ Setting up **Spice.Net** is as easy as the installation was, and can be done in 
 cd spice.net; chmod +x setup.sh; ./setup.sh
 ```
 ![Demonstration Of Setting Up](imgs/demo2.PNG)
+
+### Backdooring The Machine
+
+Now we have **Spice.Net** set up and ready, we can now plant a backdoor on our target machine! Once you've setup **Spice.Net** on your target machine, run `victim.sh`. This will host a **Spice.Net** service for you to connect back to! You can run `victim.sh` by simply using:
+```sh
+./victim.sh
+```
+![Demonstration Of Running victim.sh](imgs/demo3.PNG)
+![Demonstration Of Running victim.sh](imgs/demo3.5.PNG)
