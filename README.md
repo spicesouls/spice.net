@@ -27,7 +27,7 @@
   * [Installation](#installation)
   * [Setting Up](#setting-up)
   * [Backdooring The Machine](#backdooring-the-machine)
-  * [Connecting To The Backdoor](#connecting-to-the-backdoor)
+  * [Connecting Through The Backdoor](#connecting-through-the-backdoor)
   * [Using Commands](#using-commands)
 * [Examples](#examples) 
 * [Contact](#contact)
@@ -69,3 +69,13 @@ Now we have **Spice.Net** set up and ready, we can now plant a backdoor on our t
 ![Demonstration Of Running victim.sh](imgs/demo3.PNG)
 
 ![Demonstration Of Running victim.sh](imgs/demo3.5.PNG)
+
+### Connecting Through The Backdoor
+
+Now we have the **Spice.Net** service running on our target machine, we can connect to the machine through this and use it as a backdoor! You can connect from any machine by running `connect.sh`. You can do this by using:
+```sh
+./connect.sh
+```
+You will then be asked for the IP of the machine that is running **Spice.Net**, so you can choose which machine to connect to!
+
+![Demonstration Of Running victim.sh](imgs/demo4.PNG)
