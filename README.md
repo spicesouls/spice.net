@@ -2,6 +2,10 @@
   <a href="https://github.com/spicesouls/spice.net">
     <h1 align="center">Spice.Net</h1>
   </a>
+  
+  <a href="https://github.com/spicesouls/spice.net">
+    <img src="spice.net.png" alt="Logo" width="600" height="159">
+  </a>
 
   <p align="center">
     An opensource backdoor tool for connecting to machines and executing commands!
