@@ -42,6 +42,8 @@ while True:
 help - Displays this message
 info - Displays machine information
 echo [message] - Display a message in the server terminal
+shutdown - Attempts to shutdown the machine running the server
+reboot - Attempts to reboot the machine running the server
 $[command] - Run a command on the machine
 disconnect - Disconnect from the Server\u001b[38;5;200m
 ....................................................\u001b[0m
@@ -76,7 +78,10 @@ Processor\t:\t{uname.processor}\u001b[38;5;200m
                             send_string(wall)
                             print(wall)
 
-
+                    elif command == "reboot":
+                        os.system('reboot')
+                    elif command == "shutdown":
+                        os.system('shutdown')
                     elif command.startswith('$'):
                         command = command.replace('$', '', 1)
                         if not command:
@@ -85,9 +90,12 @@ Processor\t:\t{uname.processor}\u001b[38;5;200m
                             stream = os.popen(command)
                             output = stream.read()
                             send_string(output)
+                            
+                        
 
 
-
+                    elif not command:
+                        pass
                     else:
                         response = f'Unkown command: {command}'
                         con.sendall(bytes(response, "utf-8"))
