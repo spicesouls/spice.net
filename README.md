@@ -4,7 +4,7 @@
   </a>
 
   <p align="center">
-    An opensource backdoor tool for connecting to machines and executing commands!
+    An open-source backdoor tool for connecting to machines and executing commands!
     <br />
     <a href="https://github.com/spicesouls/spice.net"><strong>Explore the docs »</strong></a>
     <br />
@@ -27,7 +27,6 @@
   * [Backdooring The Machine](#backdooring-the-machine)
   * [Connecting Through The Backdoor](#connecting-through-the-backdoor)
   * [Using Commands](#using-commands)
-* [Examples](#examples) 
 * [Contact](#contact)
 
 ## About
@@ -83,3 +82,13 @@ You will then be asked for the IP of the machine that is running **Spice.Net**, 
 Now that you are connected, you can now input commands to be executed! You can start by using the command `help`, this will list all commands available for use as well as how to use them. You can also use the command `info` to get basic information about the machine you are connected to.
 
 ![Demonstration Of Using The 'info' Command](imgs/demo5.PNG)
+
+## Contact
+
+<p align="center">
+  <a href="https://twitter.com/SpicysoulsV">Twitter</a>
+  ·
+  <a href="https://beyondr00t.wordpress.com">Blog</a>
+  ·
+  <a href="https://steamcommunity.com/id/SpiceSouls/">Steam</a>
+</p>
