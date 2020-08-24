@@ -9,7 +9,7 @@
     <a href="https://github.com/spicesouls/spice.net"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/spicesouls/spice.net#guide">Installation & Usage Guide</a>
+    <a href="https://github.com/spicesouls/spice.net/blob/master/README.md#guide">Installation & Usage Guide</a>
     ·
     <a href="https://github.com/spicesouls/spice.net/issues">Report Bug</a>
     ·
