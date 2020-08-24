@@ -78,4 +78,10 @@ Now we have the **Spice.Net** service running on our target machine, we can conn
 ```
 You will then be asked for the IP of the machine that is running **Spice.Net**, so you can choose which machine to connect to!
 
-![Demonstration Of Running victim.sh](imgs/demo4.PNG)
+![Demonstration Of Running connect.sh](imgs/demo4.PNG)
+
+### Using Commands
+
+Now that you are connected, you can now input commands to be executed! You can start by using the command `help`, this will list all commands available for use as well as how to use them. You can also use the command `info` to get basic information about the machine you are connected to.
+
+![Demonstration Of Using The 'info' Command](imgs/demo5.PNG)
