@@ -1,7 +1,9 @@
 import socket
 import sys
+import os; os.system('cls')
 from colorama import init
 init()
+print('\n' * 1000)
 try:
     with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
 
