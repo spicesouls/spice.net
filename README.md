@@ -3,8 +3,6 @@
     <img src="spice.net.png" alt="Logo" width="600" height="159">
   </a>
 
-  <h1 align="center">Spice.Net</h1>
-
   <p align="center">
     An opensource backdoor tool for connecting to machines and executing commands!
     <br />
